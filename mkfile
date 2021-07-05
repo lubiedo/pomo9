@@ -1,6 +1,6 @@
 </$objtype/mkfile
 
-BIN=$objtype
+BIN=/$objtype/bin
 TARG=pomo9
 OFILES=pomo9.$O
 
